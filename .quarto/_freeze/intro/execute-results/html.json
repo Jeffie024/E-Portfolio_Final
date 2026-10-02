@@ -1,0 +1,15 @@
+{
+  "hash": "c64b3071b34ebaeebbadfbfc107bf2bd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Introduction\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#this is a random code block i left here for demo purpose\nprint(\"hello world\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"hello world\"\n```\n\n\n:::\n:::\n\n\n\n\n\n\n> These Pokemon to understand, the power that's inside.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

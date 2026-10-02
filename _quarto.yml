@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "E-Portfolio"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Chpt1CV.qmd
+    - Chpt2_Project_Portfolio.qmd
+    - Chpt3_Analysis.qmd
+    - Chpt5_SWOT_Analysis.qmd
+    - Chpt6_Action_Plan.qmd
+    - Chpt7_Career_Readiness.qmd
+    - Chpt8_Skills_Reflections.qmd
+    - Chpt9_Portfolio_of_Evidence.qmd
+    - summary.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: darkly
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    colorlinks: true
+
+editor: visual
+

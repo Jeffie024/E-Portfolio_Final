@@ -1,0 +1,57 @@
+{
+  "index.qmd": {
+    "index.html": "8856e7f6",
+    "index.tex": "59b33b79"
+  },
+  "intro.qmd": {
+    "intro.html": "b9ba613c",
+    "intro.tex": "4d9e2064"
+  },
+  "summary.qmd": {
+    "summary.html": "24c903fd",
+    "summary.tex": "6ff2cd95"
+  },
+  "references.qmd": {
+    "references.html": "ce153089",
+    "references.tex": "8da70e6a"
+  },
+  "Chpt1CV.qmd": {
+    "Chpt1CV.html": "a60f951e",
+    "Chpt1CV.tex": "bd855289"
+  },
+  "Chpt2_Project_Portfolio.qmd": {
+    "Chpt2_Project_Portfolio.html": "74131508",
+    "Chpt2_Project_Portfolio.tex": "93b3cf1d"
+  },
+  "Chpt3_SWOT.qmd": {
+    "Chpt3_SWOT.html": "864a1a6e"
+  },
+  "Chpt3_Analysis.qmd": {
+    "Chpt3_Analysis.html": "42b5d78d",
+    "Chpt3_Analysis.tex": "52610b2c"
+  },
+  "Chpt4_Reflection.qmd": {
+    "Chpt4_Reflection.html": "1b107415",
+    "Chpt4_Reflection.tex": "b8bf079a"
+  },
+  "Chpt6_Action_Plan.qmd": {
+    "Chpt6_Action_Plan.html": "478c9892",
+    "Chpt6_Action_Plan.tex": "b03a4edc"
+  },
+  "Chpt8_Skills_Reflections.qmd": {
+    "Chpt8_Skills_Reflections.html": "f54f85df",
+    "Chpt8_Skills_Reflections.tex": "2ffd02ca"
+  },
+  "Chpt5_SWOT_Analysis.qmd": {
+    "Chpt5_SWOT_Analysis.html": "c0efad7a",
+    "Chpt5_SWOT_Analysis.tex": "b37ddace"
+  },
+  "Chpt7_Career_Readiness.qmd": {
+    "Chpt7_Career_Readiness.html": "b50554a8",
+    "Chpt7_Career_Readiness.tex": "fbf2c86d"
+  },
+  "Chpt9_Portfolio_of_Evidence.qmd": {
+    "Chpt9_Portfolio_of_Evidence.html": "fc841a1a",
+    "Chpt9_Portfolio_of_Evidence.tex": "0ba1290f"
+  }
+}

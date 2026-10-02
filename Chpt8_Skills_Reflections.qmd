@@ -1,0 +1,7 @@
+## Seminar Skill Reflection
+
+-   **GitHub and Version Control:** The most useful professional development session I attended was the GitHub skills seminar.
+
+-   **Technical Understanding:** This session significantly deepened my practical knowledge, helping me truly understand Git as a comprehensive version control system.
+
+-   **Broader Application:** Furthermore, it allowed me to fundamentally reframe my perspective on GitHub, recognizing its capabilities as much more than just a basic repository for sharing code.

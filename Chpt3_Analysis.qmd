@@ -1,0 +1,27 @@
+# Skills Mapping
+
+### Personal Effectiveness
+
+-   **Time Management & Resilience:** Successfully balanced demanding project milestones alongside coursework, demonstrating resilience by adapting to technical setbacks such as computational limits and coding challenges.
+
+-   **Adaptability & Leadership:** Took ownership of complex problem-solving processes, pivoting research strategies when initial methodologies required refinement.
+
+### Employability
+
+-   **Professional Skills:** Developed highly transferable technical competencies in data analysis, Python programming, and AI model deployment.
+
+-   **Networking & Applications:** Actively collaborated with e-research teams and academic peers, building a concrete portfolio of evidence to support future job applications and technical interviews.
+
+### Academic Development
+
+-   **Learning Progress:** Transitioned from foundational module concepts to executing advanced, self-directed research, showcasing a steep and continuous learning curve.
+
+-   **Module Reflections & Assessments:** Consistently applied theoretical frameworks from coursework into practical, graded assessments, using feedback to iteratively improve academic performance.
+
+### Research Development
+
+-   **Methods & Ethics:** Designed robust mixed-methods research frameworks while strictly adhering to data privacy protocols and ethical guidelines for handling sensitive clinical data.
+
+-   **Dissemination:** Effectively communicated complex statistical findings and technical methodologies through structured academic writing and comprehensive reporting.
+
+### 

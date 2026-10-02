@@ -1,0 +1,69 @@
+# SWOT_Analysis
+
+### Strength
+
+-   [Academic Soft Skill]{.underline}
+
+    -   Critical Thinking
+
+    -   Problem solving
+
+-   [Academic Hard Skill]{.underline}
+
+    -   Range of wet lab techniques
+
+    -   Clinical Trial knowledge
+
+    -   Coding skill for data analysis
+
+    -   Knowledge on Machine Learning Systems
+
+-   [General Skill]{.underline}
+
+    -   Public speaking and presentation skills
+
+    -   Leadership skills
+
+    -   Communication skill
+
+### Weakness
+
+-   [Academic Hard Skill]{.underline}
+
+    -   Mathematical intuitions behind Machine Learning concepts
+
+    -   Computer science concepts behind algorithms and software
+
+    -   How different research fields connect with each other
+
+-   [General Skills]{.underline}
+
+    -   Multi-tasking
+
+    -   Teamwork (works better alone)
+
+### Opportunities
+
+-   MSc Applied Statistical Modelling and Health Informatics
+
+-   Opportunity to speak to/work with researchers in machine learning in healthcare field
+
+-   Opportunity to access large amount of healthcare data for research insight
+
+### Threats
+
+-   A busy schedule with MSc, while balancing social life, can mean little time to do extra work reaching out to professors or extra work within the curriculum.
+
+-   Applying for PhD is very time consuming, which requires balancing MSc workload and other commitments.
+
+## SMART Analysis
+
+Specific, Measuerable, Achieveable, Relevant, Time-bound
+
+1.  Successfully complete all modules in the MSc course and comprehend all material.
+2.  Achieve Merit/Distinction in the MSc course
+3.  By September 2026, I would have either
+    -   Enrolled in a fully funded PhD program
+
+    -   In full time employment, in a field related to data analysis
+4.  Aim to publish the report from my Master dissertation
